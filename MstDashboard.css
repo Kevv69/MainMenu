@@ -1,0 +1,23 @@
+body{
+    background-image: url(traceu.jpg);
+    background-size: 150% 150%;
+    background-color: black;
+}
+
+a{
+    color: white;
+    line-height: 1.9;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: 'Karla';
+}
+a:hover{
+    color: #87CEEB;
+}
+h1{
+    color: white;
+    font-family: 'Karla';
+}
+li{
+    color: white;
+}

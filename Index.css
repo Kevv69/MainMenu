@@ -1,0 +1,29 @@
+body{
+    background-image: url(denise.jpg);
+    background-size: 150% 150%;
+    background-color: black;
+}
+
+
+.D1{
+    display: flex;
+    line-height: 2.6;
+    flex-direction: row; 
+    justify-content: space-around;
+}
+
+.D3{
+    font-size: 16px;
+    font-family: 'Karla';
+}
+
+.D2{
+    font-size: 16px;
+    font-family: 'Karla';
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #87CEEB;
+}
